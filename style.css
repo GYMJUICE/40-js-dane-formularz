@@ -1,0 +1,25 @@
+.main {
+    width: 300px;
+    background-color: skyblue;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  .formularz {
+    color: saddlebrown;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  button {
+    margin: 0 auto;
+    height: 50px;
+    width: 200px;
+  }
+  .ppierwszy, .pdrugi, .ptrzeci {
+    color:red;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+  }
